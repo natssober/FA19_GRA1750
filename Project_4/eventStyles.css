@@ -1,0 +1,119 @@
+
+body{
+	padding: 0;
+	margin: 0;
+
+}
+#mainContainer{
+	background: url("images/Marble_bg.png");
+	box-shadow: 10px 10px 5px grey;
+	background-repeat: no-repeat;
+	width: 360px;
+	height: 490px;
+	margin: 0  auto;
+	margin-top: 20px;
+	padding-top: 10px;
+	color: white;
+
+}
+#blueborder{
+	border: 3px rgba( 45, 51, 97, 89%) solid;
+	width: 325px;
+	height: 465px;
+	margin: 0 auto;
+	padding-top: 10px;
+	/*background-color: rgba(0, 10, 240, 50)*/
+}
+
+#bluebkg{
+	margin: 0 auto;
+	padding-top: 10px;
+	background-color: rgba( 45, 51, 97, 89%);
+	width: 300px;
+	height: 445px;
+
+}
+
+#invitationBody{
+	width: 300px;
+	height: 445px;
+	margin: 0 auto;
+}
+
+
+#invitationBody p{
+	margin: 0;
+	padding: 0;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.honor{
+	font-family: 'Marck Script', cursive;
+	font-size: 12pt;
+	text-align: center;
+	height: 50px;
+	width: 250px;
+}
+
+.hug{
+	font-family: 'Marck Script', cursive;
+	text-align: center;
+	height: 35px;
+	width: 260px;
+}
+
+.hug02{
+	height: 30px;
+	width: 215px;
+	text-align: center;
+	font-family: 'Marck Script', cursive;
+}
+
+.titleSet{
+	height: 53px;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 37pt;
+	text-align: center;
+}
+
+.underSet{
+	height: 40px;
+	padding-bottom: 2em;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 16.5pt;
+	text-align: center;
+}
+
+.middle{
+	height: 30px;
+	text-align: center;
+}
+
+
+.desSet{
+	height: 18px;
+	font-size: 10pt;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.time{
+	height: 16px;
+	font-size: 8.2pt;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.place{
+	width: 170px;
+	font-size: 10pt;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.place02{
+	height: 39px;
+	width: 150px;
+	font-size: 10pt;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+

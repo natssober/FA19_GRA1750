@@ -1,0 +1,152 @@
+body {
+	padding: 0;
+	margin: 0 auto;
+	background-color: #000000;
+}
+
+#mainContainer{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#title{
+	margin: auto;
+}
+
+#title div{
+	margin: 0 auto;
+	padding: 50px 50px 50px 50px;
+	display: inline; 
+	text-align: center;
+	position: absolute;
+}
+
+#title ul{
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 30px 30px 30px 30px;
+	text-align: center;
+}
+
+#title li{
+	display: inline;
+	margin: 0 auto;
+}
+
+#title a{
+	color: white;
+	text-decoration: none;
+	font-size: 2em;
+	padding: 5px 15px 5px 15px;
+	margin: 0 auto;
+	background-color: none ;
+	transition: all 1s, transform 1s;
+}
+
+#title a:hover{
+	font-size: 4em;
+	transform: skewX(45deg);
+	-webkit-transform: skewX(45deg); 
+
+}
+
+.under:hover {
+	background-color: #ff3300;
+}
+
+.nice:hover {
+	background-color: #ff751a;
+}
+
+.desserts:hover {
+	background-color: #ffff1a;
+}
+
+.each:hover {
+	background-color: #2eb82e;
+}
+
+.race:hover {
+	background-color: #66ffc2;
+}
+
+.told:hover {
+	background-color: #1a75ff;
+}
+
+.areas:hover {
+	background-color: #8f00b3;
+}
+
+.lying:hover {
+	background-color: #ff4dd2;
+}
+
+.earth:hover{
+	background-color: #cccccc;
+}
+
+#heart{
+	position: relative;
+	width: 100px;
+	height: 90px;
+	left: 45%;
+	display: inline-block;
+	margin: 0 10px;
+	top: 90px;
+}
+#heart:before,
+#heart:after{
+	position: absolute;
+	content: "";
+	left: 50px;
+	top: 50px;
+	width: 50px;
+	height: 80px;
+	background: white;
+	border-radius: 50px 50px 0 0;
+	transform: rotate(-45deg);
+	transform-origin: 0 100%
+}
+#heart:after{
+	left: 0;
+	transform: rotate(45deg);
+	transform-origin: 100% 100%;
+}
+
+#navigation{
+	height: 80px;
+	width: 750px;
+	margin: auto;
+}
+
+#navigation a{
+	padding: 0 25px 0 25px;
+	line-height: 400px;
+	font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+body{
+	background-image: url("image/polka-dots-colorful-background.jpg");
+	background-repeat: repeat;
+	margin:0;
+	padding: 0;
+
+}
+
+#mainContainer{
+	width: 680px;
+	margin: 0 auto;
+	padding:0;
+	background-color: #ff66d9;
+}
+
+p{
+	width: 650px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 0;
+
+}
+
+body p{
+	font-family: Ariel, sans-serif;
+	font-size: 16px;
+	color: white;
+}
+
+#title{
+	color: white;
+	font-family: Ariel, sans-serif;
+	font-size: 40px;
+}	
+
+#mochi-01{
+	width:250px;
+	height:360px;
+	border: 10px solid #00ccff;
+	padding: 0;
+}
+
+#mochi-02{
+	width:300px;
+	height:250px;
+	border: 10px solid #00ccff;
+}
+
+#mochi-03{
+	width:300px;
+	height:200px;
+	border: 10px solid #00ccff;
+}
+
+#mochi-04{
+	width:300px;
+	height:200px;
+	border: 10px solid #00ccff;
+}
+
+#flavor{
+	margin:0 auto;
+	padding: 0;
+
+}
+

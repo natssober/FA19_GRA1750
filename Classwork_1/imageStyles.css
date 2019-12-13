@@ -1,0 +1,33 @@
+#image01{
+	width: 400px;
+	border: 10px groove #2eb82e;
+}
+
+p{
+	font-size: 12pt;
+	color: #0f3d0f;
+	font-family: Gill Sans;
+}
+
+#image02{
+	width: 400px;
+	border: 10px solid #4dd2ff;
+
+}
+
+#image03{
+	width: 400px;
+	border: 10px outset #3d3d5c;
+
+}
+
+#image04{
+	width: 400px;
+	border: 10px ridge #ccffb3;
+
+}
+#image05{
+	width: 400px;
+	border: 15px dotted #ff6600;
+
+}
